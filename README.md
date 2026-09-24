@@ -60,21 +60,3 @@
 | [portfolio-angular](https://github.com/pedrohmarques/portfolio-angular) | Meu portfólio feito em Angular |
 | [IA-Chat](https://github.com/pedrohmarques/IA-Chat) | Aplicação de chat com IA em TypeScript |
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrohmarques&theme=github_dark" />
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrohmarques&theme=github" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrohmarques&theme=github_dark" />
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrohmarques&theme=github" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=pedrohmarques&hide_border=true&theme=dark" />
-    <img height="170" src="https://streak-stats.demolab.com/?user=pedrohmarques&hide_border=true&theme=default" />
-  </picture>
-</p>
